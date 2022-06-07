@@ -1,17 +1,29 @@
 {
   "name": "innovic.task",
   "version": "1.0.0",
-  "dependencies": {
-    "express": "^4.18.1"
-
+  "author": "Tomo Klacar",
+  "description": "API for webshop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasinjo/innovic.task"
   },
-
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint --fix src"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "nodemon": "^2.0.7"
+  },
   "engines": {
     "node": ">10"
-  },
-
-  "scripts": {
-    "list" : "nvm list",
-    "start": "node ./index.js"
   }
 }
