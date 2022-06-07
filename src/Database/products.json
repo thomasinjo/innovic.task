@@ -4,7 +4,7 @@
       "id": 1234,
       "productName": "Green Leather Jacket",
       "SKU": "TK1234",
-      "collection": "Spring",
+      "collection": "Winter",
       "sizesAvailable": "M, L, XL",
       "price": "$150",
       "status": "Available"
@@ -61,7 +61,7 @@
       "collection": "Spring",
       "sizesAvailable": "S, M, L, XL",
       "price": "$200",
-      "status": "Available"
+      "status": "Unavailable"
     }
   ]
 }
