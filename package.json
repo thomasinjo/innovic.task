@@ -1,0 +1,17 @@
+{
+  "name": "innovic.task",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1"
+
+  },
+
+  "engines": {
+    "node": ">10"
+  },
+
+  "scripts": {
+    "list" : "nvm list",
+    "start": "node ./index.js"
+  }
+}
