@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1234,
+      "productName": "Green Leather Jacket",
+      "SKU": "TK1234",
+      "collection": "Spring",
+      "sizesAvailable": "M, L, XL",
+      "price": "$150",
+      "status": "Available"
+    },
+    {
+      "id": 1245,
+      "productName": "Black Leather Jacket",
+      "SKU": "TK1245",
+      "collection": "Summer",
+      "sizesAvailable": "S, M, L, XL",
+      "price": "$170",
+      "status": "Available"
+    },
+    {
+      "id": 1256,
+      "productName": "Brown Leather Jacket",
+      "SKU": "TK1256",
+      "collection": "Autumn",
+      "sizesAvailable": "L, XL",
+      "price": "$120",
+      "status": "Pending"
+    },
+    {
+      "id": 1267,
+      "productName": "Dark Blue Coat",
+      "SKU": "TK1267",
+      "collection": "Winter",
+      "sizesAvailable": "S, M, L, XL",
+      "price": "$180",
+      "status": "Pending"
+    },
+    {
+      "id": 1278,
+      "productName": "Green Sports Jacket",
+      "SKU": "TK1278",
+      "collection": "Spring",
+      "sizesAvailable": "S, M, L, XL",
+      "price": "$140",
+      "status": "Available"
+    },
+    {
+      "id": 1289,
+      "productName": "Black Sports Jacket",
+      "SKU": "TK1289",
+      "collection": "Spring",
+      "sizesAvailable": "M, L, XL",
+      "price": "$180",
+      "status": "Available"
+    },
+    {
+      "id": 1223,
+      "productName": "Blue Sports Jacket",
+      "SKU": "TK1223",
+      "collection": "Spring",
+      "sizesAvailable": "S, M, L, XL",
+      "price": "$200",
+      "status": "Available"
+    }
+  ]
+}
