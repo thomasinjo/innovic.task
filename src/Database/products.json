@@ -1,69 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1234,
-			"productName": "Green Leather Jacket",
-			"SKU": "TK1234",
-			"collection": "Winter",
-			"sizesAvailable": "M, L, XL",
-			"price": "$150",
-			"status": "Available"
-		},
-		{
-			"id": 1245,
-			"productName": "Black Leather Jacket",
-			"SKU": "TK1245",
-			"collection": "Summer",
-			"sizesAvailable": "S, M, L, XL",
-			"price": "$170",
-			"status": "Available"
-		},
-		{
-			"id": 1256,
-			"productName": "Brown Leather Jacket",
-			"SKU": "TK1256",
-			"collection": "Autumn",
-			"sizesAvailable": "L, XL",
-			"price": "$120",
-			"status": "Pending"
-		},
-		{
-			"id": 1267,
-			"productName": "Dark Blue Coat",
-			"SKU": "TK1267",
-			"collection": "Winter",
-			"sizesAvailable": "S, M, L, XL",
-			"price": "$180",
-			"status": "Pending"
-		},
-		{
-			"id": 1278,
-			"productName": "Green Sports Jacket",
-			"SKU": "TK1278",
-			"collection": "Spring",
-			"sizesAvailable": "S, M, L, XL",
-			"price": "$140",
-			"status": "Available"
-		},
-		{
-			"id": 1289,
-			"productName": "Black Sports Jacket",
-			"SKU": "TK1289",
-			"collection": "Spring",
-			"sizesAvailable": "M, L, XL",
-			"price": "$180",
-			"status": "Available"
-		},
-		{
-			"id": 1223,
-			"productName": "Blue Sports Jacket",
-			"SKU": "TK1223",
-			"collection": "Spring",
-			"sizesAvailable": "S, M, L, XL",
-			"price": "$200",
-			"status": "Unavailable"
-		},
-		{
 			"productName": "Blue Sweater",
 			"collection": "Spring",
 			"sizesAvailable": [
@@ -73,6 +10,50 @@
 			"status": "Unavailable",
 			"id": 7017,
 			"SKU": "TK7017"
+		},
+		{
+			"productName": "Black Sweater",
+			"collection": "Spring",
+			"sizesAvailable": [
+				"S, M, L, XL"
+			],
+			"price": "120",
+			"status": "available",
+			"id": 1365,
+			"SKU": "TK1365"
+		},
+		{
+			"productName": "Purple vest",
+			"collection": "Spring",
+			"sizesAvailable": [
+				"S, M, L, XL"
+			],
+			"price": "150",
+			"status": "available",
+			"id": 7837,
+			"SKU": "TK7837"
+		},
+		{
+			"productName": "Purple vest 2",
+			"collection": "Spring",
+			"sizesAvailable": [
+				"S, M, L, XL"
+			],
+			"price": "150",
+			"status": "available",
+			"id": 8227,
+			"SKU": "TK8227"
+		},
+		{
+			"productName": "Blue shirt super",
+			"collection": "Spring",
+			"sizesAvailable": [
+				"S, M, L, XL"
+			],
+			"price": "150",
+			"status": "available",
+			"id": 4962,
+			"SKU": "TK4962"
 		}
 	]
 }
